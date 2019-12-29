@@ -12,3 +12,4 @@ for i in range(100):
 	print("Data and CRC Calculted")
 	os.system("gatttool -b 66:31:39:10:56:D0 --char-write-req -a 0x0e -n " + datacrc)
 	print("wrote 0x" + datacrc + " at 0x0e ")
+	time.sleep(0.5)
