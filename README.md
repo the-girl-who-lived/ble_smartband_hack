@@ -1,6 +1,6 @@
 # ble_smartband_hack
 
-#### Ble Smartband model: M4 (Lefun)
+#### BLE Smartband model: M4 (Lefun)
 
 ##### random_time.py: script to randomly change date and time in smartband.
 ##### noty.sh: script to hack notification
